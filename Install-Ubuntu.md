@@ -64,6 +64,9 @@ CryptCP 5.0 (c) "Crypto-Pro", 2002-2021.
 
 ### Установка Менеджера Конфигурации
 
+Скачать Континент 4.1.9.2585 Публичный Релиз<br>
+https://github.com/ten0s/ccm4-wine-cryptopro/releases/download/4.1.9.2585/ccm-4.1.9.2585-install.run
+
 ```
 $ sh ccm-4.1.9.2585-install.run --target ~/CCM
 ```
