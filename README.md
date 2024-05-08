@@ -30,4 +30,4 @@
 
 Щелкните по картинке чтобы посмотреть видео
 
-[![Смотреть видео](images/AstraLinuxExample.png)](https://drive.google.com/file/d/1vHEUAYZAg7kGFopDiX6YpvqVBDyOMuWE/view?t=16)
+[![Смотреть видео](images/AstraLinuxExample.png)](https://drive.google.com/file/d/1vHEUAYZAg7kGFopDiX6YpvqVBDyOMuWE/view)
