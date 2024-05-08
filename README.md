@@ -24,3 +24,10 @@
   - [Установка Wine](Install-MacOS.md#установка-wine)
   - [Установка КриптоПро](Install-MacOS.md#установка-криптопро)
   - [Установка Менеджера Конфигурации](Install-MacOS.md#установка-менеджера-конфигурации)
+
+
+### Пример использования в Astra Linux
+
+Щелкните по картинке чтобы посмотреть видео
+
+[![Смотреть видео](images/AstraLinuxExample.png)](https://drive.google.com/file/d/1vHEUAYZAg7kGFopDiX6YpvqVBDyOMuWE/view?t=16)
